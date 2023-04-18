@@ -22,5 +22,4 @@ Aplicacion creada para controlar la alimentacion y los ejercicios fisicos de los
 # [video](https://drive.google.com/file/d/1Yl-C2eU9Y6UuW9eLVsnpPxtufkVUYq5d/view?usp=sharing)
   
 # [memoria](https://drive.google.com/file/d/1UjYp2ANvZdSgJC9wWZXBn5-yhWh3e09l/view?usp=sharing)
-  
-    </div>
+ 
