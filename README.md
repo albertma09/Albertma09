@@ -14,7 +14,7 @@
 # [BlaBlaFit](https://github.com/albertma09/BlaBlaFit)
 
 Aplicacion creada para controlar la alimentacion y los ejercicios fisicos de los usuarios
-  <div>
+  
 <h1>imagen app</h1>
 <img src="https://github.com/albertma09/Albertma09/blob/main/WhatsApp%20Image%202023-01-24%20at%2016.45.55.jpeg" height="400" width="200"/>
 
