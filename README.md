@@ -24,6 +24,6 @@ Aplicacion creada para controlar la alimentacion y los ejercicios fisicos de los
 # [memoria](https://drive.google.com/file/d/1UjYp2ANvZdSgJC9wWZXBn5-yhWh3e09l/view?usp=sharing)
  
  Proyecto ERP DAM
- # [Knight vision] (https://github.com/albertma09/Knight-Vision)
+ # [Knight vision](https://github.com/albertma09/Knight-Vision)
  
  
