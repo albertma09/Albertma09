@@ -15,7 +15,7 @@
 
 Aplicación diseñada para gestionar la alimentación y el ejercicio físico de los usuarios.
 
-- [BlaBla Fit en GitHub]([https://github.com/albertma09/Knight-Vision](https://github.com/albertma09/BlaBlaFit)
+- [BlaBla Fit en GitHub]([https://github.com/albertma09/Knight-Vision](https://github.com/albertma09/BlaBlaFit))
 - [Ver video de demostración](https://drive.google.com/file/d/1Yl-C2eU9Y6UuW9eLVsnpPxtufkVUYq5d/view?usp=sharing)
 - [Consultar memoria del proyecto](https://drive.google.com/file/d/1UjYp2ANvZdSgJC9wWZXBn5-yhWh3e09l/view?usp=sharing)
 
