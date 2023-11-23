@@ -14,16 +14,18 @@
 
 Aplicación diseñada para gestionar la alimentación y el ejercicio físico de los usuarios.
 
-<img src="https://github.com/albertma09/Albertma09/blob/main/WhatsApp%20Image%202023-01-24%20at%2016.45.55.jpeg" height="400" width="200"/>
-
 - [Ver video de demostración](https://drive.google.com/file/d/1Yl-C2eU9Y6UuW9eLVsnpPxtufkVUYq5d/view?usp=sharing)
 - [Consultar memoria del proyecto](https://drive.google.com/file/d/1UjYp2ANvZdSgJC9wWZXBn5-yhWh3e09l/view?usp=sharing)
 
 # Proyecto ERP DAM - Knight Vision
 
+Aplicación diseñada para la gestión de un club de ajedrez.
+
 - [Knight Vision en GitHub](https://github.com/albertma09/Knight-Vision)
 
 # Proyecto creador de presentaciones DAW - IAIA SLIDES
+
+Aplicación diseñada para la creación de presentaciones de manera sencilla.
 
 - [IAIA SLIDES en GitHub](https://github.com/albertma09/IAIA-Slides)
 
