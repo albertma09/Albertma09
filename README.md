@@ -1,9 +1,8 @@
 <div>
 <h1 align="center">Hola soy Albert</h1>
-<h3 align="center">Estoy estudiando desarrollo de aplicaciones multiplataforma</h3>
+<h3 align="center">He finalizado los estudios de desarrollo de aplicaciones multiplataforma y actualmente estoy estudiando desarrollo de aplicaciones Web</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 <a href="https://instagram.com/albertma03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="albertma03" height="30" width="40" /></a>
 
 </p>
