@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://github.com/albertma09/Knight-Vision">
-    <img src="" alt="Knight Vision" width="300"/>
+    <img src="logo-knightvision.png" alt="Knight Vision" width="300"/>
   </a>
 </p>
 
