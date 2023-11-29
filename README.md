@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://github.com/albertma09/IAIA-Slides">
-    <img src="INSERT_IMAGE_URL_HERE" alt="IAIA SLIDES" width="300"/>
+    <img src="logoIAIAapp.png" alt="IAIA SLIDES" width="300"/>
   </a>
 </p>
 
