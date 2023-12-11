@@ -51,5 +51,5 @@
 
 ## 📬 Contáctame
 
-- LinkedIn: [Albert LinkedIn](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3638734543))
+- LinkedIn: [Albert LinkedIn](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3638734543)
 - Correo Electrónico: [albertmateos09@email.com](mailto:albertmateos09@email.com)
